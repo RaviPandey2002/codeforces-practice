@@ -28,9 +28,9 @@ codeforces-practice/
 
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
-| 1 | [4A — Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | [ ] |
-| 2 | [71A — Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [ ] |
-| 3 | [158A — Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | [ ] |
+| 1 | [4A — Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | [d ] |
+| 2 | [71A — Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [ d] |
+| 3 | [158A — Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | [ d] |
 | 4 | [263A — Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [ ] |
 | 5 | [282A — Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | [ ] |
 | 6 | [339A — Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | [ ] |
