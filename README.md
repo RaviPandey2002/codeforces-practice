@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-14 / 100
+17 / 100
 
 ---
 
@@ -29,7 +29,7 @@ codeforces-practice/
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
 | 1 | [4A — Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | [d] |
-| 2 | [71A — Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [ d] |
+| 2 | [71A — Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [d] |
 | 3 | [158A — Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | [d] |
 | 4 | [263A — Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [d] |
 | 5 | [282A — Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | [d] |
@@ -42,10 +42,10 @@ codeforces-practice/
 | 12 | [236A — Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 800 | [d] |
 | 13 | [112A — Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | [d] |
 | 14 | [268A — Games](https://codeforces.com/problemset/problem/268/A) | 800 | [d] |
-| 15 | [520A — Raising Bacteria](https://codeforces.com/problemset/problem/520/A) | 800 | [] |
-| 16 | [546A — Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [] |
-| 17 | [734A — Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [] |
-| 18 | [978A — Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | 800 | [] |
+| 15 | [520A — Raising Bacteria](https://codeforces.com/problemset/problem/520/A) | 800 | [d] |
+| 16 | [546A — Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [d] |
+| 17 | [734A — Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [d] |
+| 18 | [978A — Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | 800 | [d] |
 | 19 | [486A — Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | [] |
 | 20 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [] |
 
