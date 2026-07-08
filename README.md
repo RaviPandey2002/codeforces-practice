@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-17 / 100
+22 / 100
 
 ---
 
@@ -46,8 +46,8 @@ codeforces-practice/
 | 16 | [546A — Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [d] |
 | 17 | [734A — Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [d] |
 | 18 | [978A — Remove Duplicates](https://codeforces.com/problemset/problem/978/A) | 800 | [d] |
-| 19 | [486A — Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | [] |
-| 20 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [] |
+| 19 | [486A — Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | [d] |
+| 20 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [d] |
 
 ---
 
@@ -56,12 +56,12 @@ codeforces-practice/
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
 | 21 | [116A — Tram](https://codeforces.com/problemset/problem/116/A) | 900 | [] |
-| 22 | [144A — Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 900 | [] |
+| 22 | [144A — Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 900 | [d] |
 | 23 | [352A — Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 900 | [] |
-| 24 | [1285A — Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A) | 900 | [] |
+| 24 | [1285A — Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A) | 900 | [d] |
 | 25 | [546B — Soldier and Badges](https://codeforces.com/problemset/problem/546/B) | 900 | [] |
 | 26 | [381A — Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | 900 | [] |
-| 27 | [580A — Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | [] |
+| 27 | [580A — Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | [d] |
 | 28 | [1374A — Required Remainder](https://codeforces.com/problemset/problem/1374/A) | 900 | [] |
 | 29 | [1360A — Minimal Square](https://codeforces.com/problemset/problem/1360/A) | 900 | [] |
 | 30 | [1512A — Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | 900 | [] |
