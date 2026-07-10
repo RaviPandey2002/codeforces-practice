@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-22 / 100
+25 / 100
 
 ---
 
@@ -57,14 +57,14 @@ codeforces-practice/
 |---|---------|--------|------|
 | 21 | [116A — Tram](https://codeforces.com/problemset/problem/116/A) | 900 | [] |
 | 22 | [144A — Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 900 | [d] |
-| 23 | [352A — Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 900 | [] |
+| 23 | [352A — Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 900 | [d] |
 | 24 | [1285A — Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A) | 900 | [d] |
 | 25 | [546B — Soldier and Badges](https://codeforces.com/problemset/problem/546/B) | 900 | [] |
 | 26 | [381A — Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | 900 | [] |
 | 27 | [580A — Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | [d] |
 | 28 | [1374A — Required Remainder](https://codeforces.com/problemset/problem/1374/A) | 900 | [] |
-| 29 | [1360A — Minimal Square](https://codeforces.com/problemset/problem/1360/A) | 900 | [] |
-| 30 | [1512A — Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | 900 | [] |
+| 29 | [1360A — Minimal Square](https://codeforces.com/problemset/problem/1360/A) | 900 | [d] |
+| 30 | [1512A — Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | 900 | [d] |
 | 31 | [1605A — AM Deviation](https://codeforces.com/problemset/problem/1605/A) | 900 | [] |
 | 32 | [1234A — Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A) | 900 | [] |
 | 33 | [1703A — YES or YES?](https://codeforces.com/problemset/problem/1703/A) | 800 | [] |
