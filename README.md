@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-25 / 100
+32 / 100
 
 ---
 
@@ -59,18 +59,18 @@ codeforces-practice/
 | 22 | [144A — Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 900 | [d] |
 | 23 | [352A — Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 900 | [d] |
 | 24 | [1285A — Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A) | 900 | [d] |
-| 25 | [546B — Soldier and Badges](https://codeforces.com/problemset/problem/546/B) | 900 | [] |
-| 26 | [381A — Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | 900 | [] |
+| 25 | [546B — Soldier and Badges](https://codeforces.com/problemset/problem/546/B) | 900 | [d] |
+| 26 | [381A — Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | 900 | [d] |
 | 27 | [580A — Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | [d] |
-| 28 | [1374A — Required Remainder](https://codeforces.com/problemset/problem/1374/A) | 900 | [] |
+| 28 | [1374A — Required Remainder](https://codeforces.com/problemset/problem/1374/A) | 900 | [d] |
 | 29 | [1360A — Minimal Square](https://codeforces.com/problemset/problem/1360/A) | 900 | [d] |
 | 30 | [1512A — Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | 900 | [d] |
-| 31 | [1605A — AM Deviation](https://codeforces.com/problemset/problem/1605/A) | 900 | [] |
-| 32 | [1234A — Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A) | 900 | [] |
-| 33 | [1703A — YES or YES?](https://codeforces.com/problemset/problem/1703/A) | 800 | [] |
+| 31 | [1605A — AM Deviation](https://codeforces.com/problemset/problem/1605/A) | 900 | [d] |
+| 32 | [1234A — Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A) | 900 | [d] |
+| 33 | [1703A — YES or YES?](https://codeforces.com/problemset/problem/1703/A) | 800 | [d] |
 | 34 | [1722A — Spell Check](https://codeforces.com/problemset/problem/1722/A) | 900 | [] |
 | 35 | [1325A — EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A) | 900 | [] |
-| 36 | [1409A — Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | 800 | [] |
+| 36 | [1409A — Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | 800 | [d] |
 | 37 | [1551A — Polycarp and Coins](https://codeforces.com/problemset/problem/1551/A) | 800 | [] |
 | 38 | [1364A — XXXXX](https://codeforces.com/problemset/problem/1364/A) | 900 | [] |
 | 39 | [1296A — Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A) | 800 | [] |
