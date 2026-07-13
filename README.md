@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-32 / 100
+38 / 100
 
 ---
 
@@ -55,7 +55,7 @@ codeforces-practice/
 
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
-| 21 | [116A — Tram](https://codeforces.com/problemset/problem/116/A) | 900 | [] |
+| 21 | [116A — Tram](https://codeforces.com/problemset/problem/116/A) | 900 | [d] |
 | 22 | [144A — Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 900 | [d] |
 | 23 | [352A — Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 900 | [d] |
 | 24 | [1285A — Mezo Playing Zoma](https://codeforces.com/problemset/problem/1285/A) | 900 | [d] |
@@ -68,13 +68,13 @@ codeforces-practice/
 | 31 | [1605A — AM Deviation](https://codeforces.com/problemset/problem/1605/A) | 900 | [d] |
 | 32 | [1234A — Equalize Prices Again](https://codeforces.com/problemset/problem/1234/A) | 900 | [d] |
 | 33 | [1703A — YES or YES?](https://codeforces.com/problemset/problem/1703/A) | 800 | [d] |
-| 34 | [1722A — Spell Check](https://codeforces.com/problemset/problem/1722/A) | 900 | [] |
-| 35 | [1325A — EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A) | 900 | [] |
+| 34 | [1722A — Spell Check](https://codeforces.com/problemset/problem/1722/A) | 900 | [d] |
+| 35 | [1325A — EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A) | 900 | [d] |
 | 36 | [1409A — Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | 800 | [d] |
-| 37 | [1551A — Polycarp and Coins](https://codeforces.com/problemset/problem/1551/A) | 800 | [] |
+| 37 | [1551A — Polycarp and Coins](https://codeforces.com/problemset/problem/1551/A) | 800 | [d] |
 | 38 | [1364A — XXXXX](https://codeforces.com/problemset/problem/1364/A) | 900 | [] |
-| 39 | [1296A — Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A) | 800 | [] |
-| 40 | [1278A — Shuffle Hashing](https://codeforces.com/problemset/problem/1278/A) | 900 | [] |
+| 39 | [1296A — Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A) | 800 | [d] |
+| 40 | [1278A — Shuffle Hashing](https://codeforces.com/problemset/problem/1278/A) | 900 | [d] |
 | 41 | [1437A — Marketing Scheme](https://codeforces.com/problemset/problem/1437/A) | 900 | [] |
 | 42 | [1624A — Plus One on the Subset](https://codeforces.com/problemset/problem/1624/A) | 800 | [] |
 | 43 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [] |
