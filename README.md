@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-38 / 100
+45 / 100
 
 ---
 
@@ -75,11 +75,11 @@ codeforces-practice/
 | 38 | [1364A — XXXXX](https://codeforces.com/problemset/problem/1364/A) | 900 | [] |
 | 39 | [1296A — Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A) | 800 | [d] |
 | 40 | [1278A — Shuffle Hashing](https://codeforces.com/problemset/problem/1278/A) | 900 | [d] |
-| 41 | [1437A — Marketing Scheme](https://codeforces.com/problemset/problem/1437/A) | 900 | [] |
-| 42 | [1624A — Plus One on the Subset](https://codeforces.com/problemset/problem/1624/A) | 800 | [] |
-| 43 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [] |
-| 44 | [1328A — Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | [] |
-| 45 | [1352B — Same Parity Summands](https://codeforces.com/problemset/problem/1352/B) | 1000 | [] |
+| 41 | [1437A — Marketing Scheme](https://codeforces.com/problemset/problem/1437/A) | 900 | [d] |
+| 42 | [1624A — Plus One on the Subset](https://codeforces.com/problemset/problem/1624/A) | 800 | [d] |
+| 43 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [d] |
+| 44 | [1328A — Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | 800 | [d] |
+| 45 | [1352B — Same Parity Summands](https://codeforces.com/problemset/problem/1352/B) | 1000 | [d] |
 
 ---
 
@@ -87,9 +87,9 @@ codeforces-practice/
 
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
-| 46 | [768A — Code For 1](https://codeforces.com/problemset/problem/768/A) | 1000 | [] |
-| 47 | [466A — Cheap Travel](https://codeforces.com/problemset/problem/466/A) | 1000 | [] |
-| 48 | [1200A — Hotelier](https://codeforces.com/problemset/problem/1200/A) | 1000 | [] |
+| 46 | [768A — Code For 1](https://codeforces.com/problemset/problem/768/A) | 1000 | [d] |
+| 47 | [466A — Cheap Travel](https://codeforces.com/problemset/problem/466/A) | 1000 | [d] |
+| 48 | [1200A — Hotelier](https://codeforces.com/problemset/problem/1200/A) | 1000 | [d] |
 | 49 | [455A — Boredom](https://codeforces.com/problemset/problem/455/A) | 1000 | [] |
 | 50 | [580B — Kefa and Company](https://codeforces.com/problemset/problem/580/B) | 1000 | [] |
 | 51 | [1133B — Preparation for International Olympiad](https://codeforces.com/problemset/problem/1133/B) | 1000 | [] |
