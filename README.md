@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-45 / 100
+49 / 100
 
 ---
 
@@ -91,10 +91,10 @@ codeforces-practice/
 | 47 | [466A — Cheap Travel](https://codeforces.com/problemset/problem/466/A) | 1000 | [d] |
 | 48 | [1200A — Hotelier](https://codeforces.com/problemset/problem/1200/A) | 1000 | [d] |
 | 49 | [455A — Boredom](https://codeforces.com/problemset/problem/455/A) | 1000 | [] |
-| 50 | [580B — Kefa and Company](https://codeforces.com/problemset/problem/580/B) | 1000 | [] |
-| 51 | [1133B — Preparation for International Olympiad](https://codeforces.com/problemset/problem/1133/B) | 1000 | [] |
-| 52 | [817C — Really Big Numbers](https://codeforces.com/problemset/problem/817/C) | 1000 | [] |
-| 53 | [1399A — Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | 1000 | [] |
+| 50 | [580B — Kefa and Company](https://codeforces.com/problemset/problem/580/B) | 1000 | [d] |
+| 51 | [1133B — Preparation for International Olympiad](https://codeforces.com/problemset/problem/1133/B) | 1000 | [d] |
+| 52 | [817C — Really Big Numbers](https://codeforces.com/problemset/problem/817/C) | 1000 | [d] |
+| 53 | [1399A — Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | 1000 | [d] |
 | 54 | [1475A — Strange Birthday Party](https://codeforces.com/problemset/problem/1475/A) | 1000 | [] |
 | 55 | [1283A — Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) | 1000 | [] |
 | 56 | [1221A — 2048 Game](https://codeforces.com/problemset/problem/1221/A) | 1000 | [] |
