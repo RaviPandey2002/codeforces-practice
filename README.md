@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-49 / 100
+52 / 100
 
 ---
 
@@ -95,10 +95,10 @@ codeforces-practice/
 | 51 | [1133B — Preparation for International Olympiad](https://codeforces.com/problemset/problem/1133/B) | 1000 | [d] |
 | 52 | [817C — Really Big Numbers](https://codeforces.com/problemset/problem/817/C) | 1000 | [d] |
 | 53 | [1399A — Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | 1000 | [d] |
-| 54 | [1475A — Strange Birthday Party](https://codeforces.com/problemset/problem/1475/A) | 1000 | [] |
+| 54 | [1475A — Strange Birthday Party](https://codeforces.com/problemset/problem/1475/A) | 1000 | [d] |
 | 55 | [1283A — Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) | 1000 | [] |
-| 56 | [1221A — 2048 Game](https://codeforces.com/problemset/problem/1221/A) | 1000 | [] |
-| 57 | [1073B — Vasya and Books](https://codeforces.com/problemset/problem/1073/B) | 1000 | [] |
+| 56 | [1221A — 2048 Game](https://codeforces.com/problemset/problem/1221/A) | 1000 | [d] |
+| 57 | [1073B — Vasya and Books](https://codeforces.com/problemset/problem/1073/B) | 1000 | [d] |
 | 58 | [1342B — Binary Period](https://codeforces.com/problemset/problem/1342/B) | 1000 | [] |
 | 59 | [1462A — Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | 1000 | [] |
 | 60 | [1368A — C+=](https://codeforces.com/problemset/problem/1368/A) | 1000 | [] |
