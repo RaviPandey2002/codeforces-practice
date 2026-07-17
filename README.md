@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-52 / 100
+58 / 100
 
 ---
 
@@ -99,12 +99,12 @@ codeforces-practice/
 | 55 | [1283A — Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A) | 1000 | [] |
 | 56 | [1221A — 2048 Game](https://codeforces.com/problemset/problem/1221/A) | 1000 | [d] |
 | 57 | [1073B — Vasya and Books](https://codeforces.com/problemset/problem/1073/B) | 1000 | [d] |
-| 58 | [1342B — Binary Period](https://codeforces.com/problemset/problem/1342/B) | 1000 | [] |
-| 59 | [1462A — Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | 1000 | [] |
-| 60 | [1368A — C+=](https://codeforces.com/problemset/problem/1368/A) | 1000 | [] |
-| 61 | [1374B — Multiply by 2, Divide by 6](https://codeforces.com/problemset/problem/1374/B) | 1000 | [] |
-| 62 | [1567A — Domino Disaster](https://codeforces.com/problemset/problem/1567/A) | 800 | [] |
-| 63 | [1579A — Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A) | 1000 | [] |
+| 58 | [1342B — Binary Period](https://codeforces.com/problemset/problem/1342/B) | 1000 | [d] |
+| 59 | [1462A — Favorite Sequence](https://codeforces.com/problemset/problem/1462/A) | 1000 | [d] |
+| 60 | [1368A — C+=](https://codeforces.com/problemset/problem/1368/A) | 1000 | [d] |
+| 61 | [1374B — Multiply by 2, Divide by 6](https://codeforces.com/problemset/problem/1374/B) | 1000 | [d] |
+| 62 | [1567A — Domino Disaster](https://codeforces.com/problemset/problem/1567/A) | 800 | [d] |
+| 63 | [1579A — Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A) | 1000 | [d] |
 | 64 | [1650A — Deletions of Two Adjacent Letters](https://codeforces.com/problemset/problem/1650/A) | 1000 | [] |
 | 65 | [1679A — Ants](https://codeforces.com/problemset/problem/1679/A) | 800 | [] |
 | 66 | [1703B — ICPC Balloons](https://codeforces.com/problemset/problem/1703/B) | 1000 | [] |
