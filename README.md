@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-58 / 100
+63 / 100
 
 ---
 
@@ -105,13 +105,13 @@ codeforces-practice/
 | 61 | [1374B — Multiply by 2, Divide by 6](https://codeforces.com/problemset/problem/1374/B) | 1000 | [d] |
 | 62 | [1567A — Domino Disaster](https://codeforces.com/problemset/problem/1567/A) | 800 | [d] |
 | 63 | [1579A — Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A) | 1000 | [d] |
-| 64 | [1650A — Deletions of Two Adjacent Letters](https://codeforces.com/problemset/problem/1650/A) | 1000 | [] |
-| 65 | [1679A — Ants](https://codeforces.com/problemset/problem/1679/A) | 800 | [] |
-| 66 | [1703B — ICPC Balloons](https://codeforces.com/problemset/problem/1703/B) | 1000 | [] |
-| 67 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [] |
+| 64 | [1650A — Deletions of Two Adjacent Letters](https://codeforces.com/problemset/problem/1650/A) | 1000 | [d] |
+| 65 | [1679A — Ants](https://codeforces.com/problemset/problem/1679/A) | 800 | [d] |
+| 66 | [1703B — ICPC Balloons](https://codeforces.com/problemset/problem/1703/B) | 1000 | [d] |
+| 67 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [d] |
 | 68 | [1766B — Mahmoud and a Triangle](https://codeforces.com/problemset/problem/1766/B) | 1000 | [] |
-| 69 | [1791B — Following Directions](https://codeforces.com/problemset/problem/1791/B) | 1000 | [] |
-| 70 | [1811A — Insert Digit](https://codeforces.com/problemset/problem/1811/A) | 1000 | [] |
+| 69 | [1791B — Following Directions](https://codeforces.com/problemset/problem/1791/B) | 1000 | [d] |
+| 70 | [1811A — Insert Digit](https://codeforces.com/problemset/problem/1811/A) | 1000 | [d] |
 
 ---
 
