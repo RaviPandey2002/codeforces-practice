@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-63 / 100
+67 / 100
 
 ---
 
@@ -109,7 +109,7 @@ codeforces-practice/
 | 65 | [1679A — Ants](https://codeforces.com/problemset/problem/1679/A) | 800 | [d] |
 | 66 | [1703B — ICPC Balloons](https://codeforces.com/problemset/problem/1703/B) | 1000 | [d] |
 | 67 | [1A — Theatre Square](https://codeforces.com/problemset/problem/1/A) | 1000 | [d] |
-| 68 | [1766B — Mahmoud and a Triangle](https://codeforces.com/problemset/problem/1766/B) | 1000 | [] |
+| 68 | [1766B — Mahmoud and a Triangle](https://codeforces.com/problemset/problem/1766/B) | 1000 | [d] |
 | 69 | [1791B — Following Directions](https://codeforces.com/problemset/problem/1791/B) | 1000 | [d] |
 | 70 | [1811A — Insert Digit](https://codeforces.com/problemset/problem/1811/A) | 1000 | [d] |
 
@@ -120,9 +120,9 @@ codeforces-practice/
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
 | 71 | [1030B — Vasya and Cornfield](https://codeforces.com/problemset/problem/1030/B) | 1100 | [] |
-| 72 | [1742B — Increasing](https://codeforces.com/problemset/problem/1742/B) | 1100 | [] |
-| 73 | [1559A — Mocha and Math](https://codeforces.com/problemset/problem/1559/A) | 1100 | [] |
-| 74 | [1400A — String Similarity](https://codeforces.com/problemset/problem/1400/A) | 1100 | [] |
+| 72 | [1742B — Increasing](https://codeforces.com/problemset/problem/1742/B) | 1100 | [d] |
+| 73 | [1559A — Mocha and Math](https://codeforces.com/problemset/problem/1559/A) | 1100 | [d] |
+| 74 | [1400A — String Similarity](https://codeforces.com/problemset/problem/1400/A) | 1100 | [d] |
 | 75 | [1553A — Digits Sum](https://codeforces.com/problemset/problem/1553/A) | 1100 | [] |
 | 76 | [1187A — Stickers and Toys](https://codeforces.com/problemset/problem/1187/A) | 1100 | [] |
 | 77 | [1367B — Even Array](https://codeforces.com/problemset/problem/1367/B) | 1100 | [] |
