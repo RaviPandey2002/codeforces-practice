@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-67 / 100
+70 / 100
 
 ---
 
@@ -119,12 +119,12 @@ codeforces-practice/
 
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
-| 71 | [1030B — Vasya and Cornfield](https://codeforces.com/problemset/problem/1030/B) | 1100 | [] |
+| 71 | [1030B — Vasya and Cornfield](https://codeforces.com/problemset/problem/1030/B) | 1100 | [d] |
 | 72 | [1742B — Increasing](https://codeforces.com/problemset/problem/1742/B) | 1100 | [d] |
 | 73 | [1559A — Mocha and Math](https://codeforces.com/problemset/problem/1559/A) | 1100 | [d] |
 | 74 | [1400A — String Similarity](https://codeforces.com/problemset/problem/1400/A) | 1100 | [d] |
-| 75 | [1553A — Digits Sum](https://codeforces.com/problemset/problem/1553/A) | 1100 | [] |
-| 76 | [1187A — Stickers and Toys](https://codeforces.com/problemset/problem/1187/A) | 1100 | [] |
+| 75 | [1553A — Digits Sum](https://codeforces.com/problemset/problem/1553/A) | 1100 | [d] |
+| 76 | [1187A — Stickers and Toys](https://codeforces.com/problemset/problem/1187/A) | 1100 | [d] |
 | 77 | [1367B — Even Array](https://codeforces.com/problemset/problem/1367/B) | 1100 | [] |
 | 78 | [1092B — Teams Forming](https://codeforces.com/problemset/problem/1092/B) | 1100 | [] |
 | 79 | [961A — Tetris](https://codeforces.com/problemset/problem/961/A) | 1100 | [] |
