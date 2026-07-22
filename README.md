@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-70 / 100
+75 / 100
 
 ---
 
@@ -125,13 +125,13 @@ codeforces-practice/
 | 74 | [1400A — String Similarity](https://codeforces.com/problemset/problem/1400/A) | 1100 | [d] |
 | 75 | [1553A — Digits Sum](https://codeforces.com/problemset/problem/1553/A) | 1100 | [d] |
 | 76 | [1187A — Stickers and Toys](https://codeforces.com/problemset/problem/1187/A) | 1100 | [d] |
-| 77 | [1367B — Even Array](https://codeforces.com/problemset/problem/1367/B) | 1100 | [] |
+| 77 | [1367B — Even Array](https://codeforces.com/problemset/problem/1367/B) | 1100 | [d] |
 | 78 | [1092B — Teams Forming](https://codeforces.com/problemset/problem/1092/B) | 1100 | [] |
 | 79 | [961A — Tetris](https://codeforces.com/problemset/problem/961/A) | 1100 | [] |
-| 80 | [1057A — Booking a Room](https://codeforces.com/problemset/problem/1057/A) | 1000 | [] |
-| 81 | [1352C — K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C) | 1100 | [] |
-| 82 | [1461A — String Generation](https://codeforces.com/problemset/problem/1461/A) | 1100 | [] |
-| 83 | [1525A — Potion-making](https://codeforces.com/problemset/problem/1525/A) | 1100 | [] |
+| 80 | [1057A — Booking a Room](https://codeforces.com/problemset/problem/1057/A) | 1000 | [d] |
+| 81 | [1352C — K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C) | 1100 | [d] |
+| 82 | [1461A — String Generation](https://codeforces.com/problemset/problem/1461/A) | 1100 | [d] |
+| 83 | [1525A — Potion-making](https://codeforces.com/problemset/problem/1525/A) | 1100 | [d] |
 | 84 | [1611A — Make Even](https://codeforces.com/problemset/problem/1611/A) | 1100 | [] |
 | 85 | [1676B — Equal Candies](https://codeforces.com/problemset/problem/1676/B) | 1100 | [] |
 
