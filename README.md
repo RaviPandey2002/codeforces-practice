@@ -20,7 +20,7 @@ codeforces-practice/
 
 ## Progress
 
-75 / 100
+80 / 100
 
 ---
 
@@ -132,8 +132,8 @@ codeforces-practice/
 | 81 | [1352C — K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C) | 1100 | [d] |
 | 82 | [1461A — String Generation](https://codeforces.com/problemset/problem/1461/A) | 1100 | [d] |
 | 83 | [1525A — Potion-making](https://codeforces.com/problemset/problem/1525/A) | 1100 | [d] |
-| 84 | [1611A — Make Even](https://codeforces.com/problemset/problem/1611/A) | 1100 | [] |
-| 85 | [1676B — Equal Candies](https://codeforces.com/problemset/problem/1676/B) | 1100 | [] |
+| 84 | [1611A — Make Even](https://codeforces.com/problemset/problem/1611/A) | 1100 | [d] |
+| 85 | [1676B — Equal Candies](https://codeforces.com/problemset/problem/1676/B) | 1100 | [d] |
 
 ---
 
@@ -141,9 +141,9 @@ codeforces-practice/
 
 | # | Problem | Rating | Done |
 |---|---------|--------|------|
-| 86 | [279B — Books](https://codeforces.com/problemset/problem/279/B) | 1200 | [] |
-| 87 | [381B — Sereja and Suffixes](https://codeforces.com/problemset/problem/381/B) | 1200 | [] |
-| 88 | [1611C — Polycarp Recovers](https://codeforces.com/problemset/problem/1611/C) | 1200 | [] |
+| 86 | [279B — Books](https://codeforces.com/problemset/problem/279/B) | 1200 | [d] |
+| 87 | [381B — Sereja and Suffixes](https://codeforces.com/problemset/problem/381/B) | 1200 | [d] |
+| 88 | [1611C — Polycarp Recovers](https://codeforces.com/problemset/problem/1611/C) | 1200 | [d] |
 | 89 | [1360C — Deutsch, Deitvulf and Volleyball](https://codeforces.com/problemset/problem/1360/C) | 1200 | [] |
 | 90 | [1538C — Number of Pairs](https://codeforces.com/problemset/problem/1538/C) | 1200 | [] |
 | 91 | [702B — Powers of Two](https://codeforces.com/problemset/problem/702/B) | 1200 | [] |
